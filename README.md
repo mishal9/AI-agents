@@ -1,4 +1,4 @@
-# agents
+# AI-agents
 
 Experiments with [Deep Agents](https://docs.langchain.com/oss/python/deepagents/quickstart) (LangChain) running on Google Gemini.
 
