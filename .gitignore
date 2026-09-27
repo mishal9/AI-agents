@@ -29,3 +29,6 @@ env/
 .vscode/
 .idea/
 .DS_Store
+
+# Local databases
+*.db
